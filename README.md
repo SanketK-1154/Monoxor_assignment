@@ -39,9 +39,9 @@ cd stock-market-guru
 
 2. Install Requirements
    
-pip install -r requirements.txt
+   pip install google-adk
 
-3. Get Alpha Vantage API Key
+4. Get Alpha Vantage API Key
 
     Register at https://www.alphavantage.co/support/#api-key
 
